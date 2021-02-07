@@ -5,6 +5,7 @@ Lingo - is a simple python Gui Program, that helps you learn the most frequent w
 
 ! Currently Hindi & Kannada languages are included.
 # The program has been included with 500 freuqent words that are commonly used
+## NOTE: These frequent words are from movie subtitles and other sources.
 
 
 # Kannada Language Demo:
